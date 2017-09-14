@@ -1,1 +1,1 @@
-Sheba - Wordpress Theme Developments
+Sheba - Wordpress Theme Development
